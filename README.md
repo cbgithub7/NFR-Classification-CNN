@@ -63,6 +63,7 @@ The implemented model is designed to classify text data into multiple classes us
 
 - TensorFlow documentation: [https://www.tensorflow.org/](https://www.tensorflow.org/)
 - Convolutional Neural Networks for Sentence Classification: [https://arxiv.org/abs/1408.5882](https://arxiv.org/abs/1408.5882)
+- Denny Britz's CNN Text Classification repository: [https://github.com/dennybritz/cnn-text-classification-tf](https://github.com/dennybritz/cnn-text-classification-tf)
 
 #### Author:
 

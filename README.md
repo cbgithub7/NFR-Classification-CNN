@@ -1,5 +1,5 @@
 # NFR-Classification-CNN
-Legacy code (2018) for non-functional requirement classification using CNNs. Outdated; transformers (e.g., BERT, GPT) are now standard.
+Legacy code (2018) for non-functional requirement classification via CNNs, now outdated. Current standards favor transformers (e.g., BERT, GPT).
 
 ### Multi-class Text Classification CNN Model README
 

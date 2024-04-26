@@ -67,4 +67,4 @@ The implemented model is designed to classify text data into multiple classes us
 
 #### Author:
 
-This Multi-class Text Classification CNN model implementation, initially derived from Denny Britz [repository](https://github.com/dennybritz/cnn-text-classification-tf), was adapted by Cody Baker for neural network based NPL research at Towson University.
+This Multi-class Text Classification CNN model implementation, initially derived from Denny Britz [repository](https://github.com/dennybritz/cnn-text-classification-tf), was adapted by Cody Baker for neural network based NLP research at Towson University.
